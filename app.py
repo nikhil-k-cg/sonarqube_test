@@ -8,7 +8,7 @@ def home():
     """
     home fun
     """
-    return "<h1>Welcome<h1/>"
+    return "<h1>Welcome to Home page<h1/>"
 
 
 if __name__ == '__main__':
